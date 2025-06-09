@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://talentchow.github.io/tianlunzhou.github.io//sitemap.xml
+Sitemap: https://talentchow.github.io//sitemap.xml
