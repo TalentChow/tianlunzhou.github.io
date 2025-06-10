@@ -6,7 +6,7 @@ subtitle: <a href='#'>Hong Kong Baptist University</a>. Address. Contacts. Motto
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 3851749364631_.pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>808</p>
