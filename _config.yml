@@ -263,7 +263,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: ["ZHOU"]
+  last_name: ["ZHOU", "Zhou"]
   first_name: ["Tianlun", "T."]
 
   style: apa
