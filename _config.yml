@@ -177,6 +177,7 @@ exclude:
   - _pages/projects.md
   - _pages/repositories.md
   - _pages/profiles.md
+  - _pages/dropdown.md
   - _pages/books.md
   - _posts/
   - _projects/
