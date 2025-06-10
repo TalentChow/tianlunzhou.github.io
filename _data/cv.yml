@@ -2,31 +2,24 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Tianlun ZHOU
     - name: Date of Birth
-      value: 14th March 1879
+      value: 5th Nov 1993
     - name: Languages
-      value: English, German
+      value: Mandarin, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: M.Sc. in AI and Digital Media
+      institution: Hong Kong Baptist University, Hong Kong SAR, China
+      year: 2022
+    - title: M.A. in Ethics and Public Affairs
+      institution: Hong Kong Baptist University, Hong Kong SAR, China
+      year: 2020
+    - title: B.A. in Broadcasting Journalism
+      institution: Southwest Minzu University, Chengdu, China
+      year: 2016
 
 - title: Experience
   type: time_table
