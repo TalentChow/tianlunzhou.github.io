@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Welcome to my personal webpage. 
+subtitle: **Welcome to my personal webpage.** 
 
 profile:
   align: right
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome! I am Tianlun, a Ph.D. student in the [School of Communication](https://www.comm.hkbu.edu.hk/comd-www/english/front/index.htm) at [Hong Kong Baptist University](https://www.hkbu.edu.hk) (HKBU), supervised by [Prof. Kenneth Paul TAN](https://www.kennethpaultan.net/), [Prof. Xinzhi ZHANG](https://drxinzhizhang.com/) (CityU of HK), and [Prof. Jingyuan SHI](https://imd.hkbu.edu.hk/faculty-member/Dr-SHI-Jingyuan.html). 
+I am Tianlun, a Ph.D. student in the [School of Communication](https://www.comm.hkbu.edu.hk/comd-www/english/front/index.htm) at [Hong Kong Baptist University](https://www.hkbu.edu.hk) (HKBU), supervised by [Prof. Kenneth Paul TAN](https://www.kennethpaultan.net/), [Prof. Xinzhi ZHANG](https://drxinzhizhang.com/) (CityU of HK), and [Prof. Jingyuan SHI](https://imd.hkbu.edu.hk/faculty-member/Dr-SHI-Jingyuan.html). 
 
 My research interests include **digital journalism**, **political communication**, **human-computer interaction**, **information & communication technology**, and **computational social science**. I am interested in using quantitative methods (e.g., surveys and experiments) as well as computational methods to study how digital media and its products (e.g., online news) influence the public’s perceptions of the world and the process of democracy in different societies. In addition, I am interested in how people interact with AI and the mechanisms of their interactions. 
 
