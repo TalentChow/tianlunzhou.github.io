@@ -22,27 +22,6 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "",
-      "position": "",
-      "url": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": ""
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "location": "",
-      "position": "",
-      "url": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": ""
-    }
-  ],
   "education": [
     {
       "institution": "Hong Kong Baptist University",
@@ -74,50 +53,6 @@
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
   "publications": [
     {
       "name": "Zur Elektrody/namik bewegter Körper",
@@ -143,16 +78,46 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Data Analysis",
+      "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "SPSS", 
+        "AMOS", 
+        "Gephi", 
+        "SQLite", 
+        "Mplus"
+      ]
+    },
+    {
+      "name": "Office",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Word", 
+        "Excel", 
+        "PowerPoint", 
+        "Visio"
+      ]
+    },
+    {
+      "name": "Multimedia",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Adobe Premiere", 
+        "Photoshop", 
+        "Illustrator", 
+        "Edius"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Python", 
+        "R"
       ]
     }
   ],
