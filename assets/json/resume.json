@@ -14,14 +14,6 @@
       "countryCode": "CHN",
       "region": "Hong Kong SAR"
     },
-    "profiles": [
-      {
-        "network": "",
-        "username": "",
-        "url": ""
-      }
-    ]
-  },
   "education": [
     {
       "institution": "Hong Kong Baptist University",
@@ -86,7 +78,7 @@
       "awarder": "Southwest Minzu University",
       "url": "",
       "summary": ""
-    },
+    }
   ],
   "skills": [
     {
