@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Hong Kong Baptist University</a>. 
+subtitle: Welcome to my personal webpage. 
 
 profile:
   align: right
